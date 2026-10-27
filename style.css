@@ -1,0 +1,64 @@
+/*   
+Theme Name: WpNewspaper
+Version: 1.5.2
+Theme URI: http://www.gabfirethemes.com/
+Description: Designed by <a href="http://www.gabfirethemes.com">Gabfire Themes</a> | <a href="http://www.gabfirethemes.com/category/themes/"> See All Themes</a> 
+Author: Gabfire Themes
+Author URI: http://www.gabfirethemes.com
+Tags: Gabfire Themes
+*/
+html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,big,cite,code,del,dfn,em,font,img,ins,kbd,q,s,samp,strike,strong,sub,sup,tt,var,b,u,i,center,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+    background: transparent
+}
+
+body {
+    line-height: 1
+}
+
+ol,ul {
+    list-style: none
+}
+
+blockquote,q {
+    quotes: none
+}
+
+blockquote:before,blockquote:after,q:before,q:after {
+    content: '';
+    content: none
+}
+
+:focus {
+    outline: 0
+}
+
+ins {
+    text-decoration: none
+}
+
+del {
+    text-decoration: line-through
+}
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0
+}
+
+a {
+    text-decoration: none;
+}
+
+.nomargin-right {
+    margin: 0 !important;
+}
+
+.nopadding-top {
+    padding-top: 0 !important;
+}
